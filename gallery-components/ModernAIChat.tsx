@@ -1,5 +1,5 @@
 import React from 'react';
-import { sanintAiLogo } from '../../constants';
+import { sanintAiLogo } from '../constants';
 
 export const ModernAIChat: React.FC = () => {
     const messages = [

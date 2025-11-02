@@ -21,7 +21,8 @@ export const ShootingStars: React.FC = () => {
           A mesmerizing badge/ui effect with customizable mobile shooting stars traversing across the screen
         </p>
       </div>
-      <style jsx>{`
+      {/* FIX: Removed the `jsx` attribute from the `<style>` tag as it's not a standard React attribute and was causing a type error. */}
+      <style>{`
         @keyframes shoot {
           0% { transform: translateX(0) translateY(0); opacity: 1; }
           100% { transform: translateX(200px) translateY(150px); opacity: 0; }
