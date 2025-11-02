@@ -1,0 +1,125 @@
+[
+  {
+    "id": "embedded-shaders-1756270523413", "name": "Black Hole Shader", "category": "Shaders", "variant": "Embed", "description": "A mesmerizing black hole shader effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/black-hole-shader/default/bundle.1756270523413.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1748699860663", "name": "Gradient Shader Background", "category": "Shaders", "variant": "Embed", "description": "A background with a beautiful, animated shader gradient.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/minhxthanh/shader-background/default/bundle.1748699860663.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1749291038497", "name": "Light Beams Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates volumetric light beam effects.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/beams/default/bundle.1749291038497.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1755170299568", "name": "Falling Pattern Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a pattern of falling shapes.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/falling-pattern/default/bundle.1755170299568.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1755360493435", "name": "Animated Shader Hero", "category": "Shaders", "variant": "Embed", "description": "A hero section with a captivating animated shader background.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ravikatiyar162/animated-shader-hero/default/bundle.1755360493435.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1755486352920", "name": "Abstract Shader Animation", "category": "Shaders", "variant": "Embed", "description": "An abstract and artistic shader animation.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/designali-in/shader-animation/default/bundle.1755486352920.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1755617050360", "name": "Shader Lines Animation", "category": "Shaders", "variant": "Embed", "description": "An animation of flowing and interacting lines created with a shader.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/designali-in/shader-lines/default/bundle.1755617050360.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1755766452368", "name": "WebGL Shader", "category": "Shaders", "variant": "Embed", "description": "A generic WebGL shader demonstration.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/designali-in/web-gl-shader/default/bundle.1755766452368.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1755894172645", "name": "Prism Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that simulates a prism or light refraction effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/prism/default/bundle.1755894172645.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1755894172645-2", "name": "Prism Shader (Duplicate)", "category": "Shaders", "variant": "Embed", "description": "A shader that simulates a prism or light refraction effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/prism/default/bundle.1755894172645.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756050646208", "name": "Celestial Bloom Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a celestial, blooming flower effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/celestial-bloom-shader/default/bundle.1756050646208.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756051149682", "name": "Matrix Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that mimics the \"Matrix\" digital rain effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/martrix-shader/default/bundle.1756051149682.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756051576547", "name": "Warp Drive Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that simulates a starfield warp drive effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/warp-drive-shader/default/bundle.1756051576547.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756052155666", "name": "Cybernetic Grid Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a futuristic, cybernetic grid.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/cybernetic-grid-shader/default/bundle.1756052155666.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756052616664", "name": "Aurora Borealis Shader", "category": "Shaders", "variant": "Embed", "description": "A realistic Aurora Borealis shader effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/aurora-borealis-shader/default/bundle.1756052616664.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756052954359", "name": "Digital Petals Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates an animation of digital flower petals.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/digital-petals-shader/default/bundle.1756052954359.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756053165596", "name": "Celestial Ink Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that simulates celestial ink spreading in water.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/celestial-ink-shader/default/bundle.1756053165596.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756053857008", "name": "Living Nebula Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a dynamic, living nebula effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/living-nebula/default/bundle.1756053857008.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1749003393329", "name": "Simple Animated Shader", "category": "Shaders", "variant": "Embed", "description": "A simple but effective animated shader background.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/minhxthanh/animated-shader-background/default/bundle.1749003393329.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756277437084", "name": "Abstract Background Shader", "category": "Shaders", "variant": "Embed", "description": "An abstract shader perfect for backgrounds.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/shader-background/default/bundle.1756277437084.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756389848848", "name": "Arcane Orb Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that renders a magical, arcane orb.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/arcane-orb/default/bundle.1756389848848.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756278150698", "name": "Aura Core Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a glowing aura core effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/aura-core/default/bundle.1756278150698.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756278259045", "name": "Celestial Sphere Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that renders a beautiful celestial sphere.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/celestial-sphere/default/bundle.1756278259045.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756391072942", "name": "Aether Flow Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a flowing, aether-like effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/aether-flow/default/bundle.1756391072942.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756391968928", "name": "Interactive Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that interacts with mouse movements.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/interactive-shader/default/bundle.1756391968928.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756393809250", "name": "Crystal Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that simulates the look of a crystal.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/crystal-shader/default/bundle.1756393809250.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756394112756", "name": "Liquid Crystal Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a liquid crystal display effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/liquid-crystal/default/bundle.1756394112756.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756396557479", "name": "Dynamic Waveform Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that generates a dynamic audio waveform.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/dynamic-waveform/default/bundle.1756396557479.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756888227756", "name": "Radial Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a radial burst effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/raidal-2/default/bundle.1756888227756.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756894894716", "name": "Abstract Tunnel Shader", "category": "Shaders", "variant": "Embed", "description": "An abstract shader that creates a tunnel-like effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/lyanchouss/asd/default/bundle.1756894894716.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1757057932408", "name": "Parallax Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a parallax depth effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/parallax-shader/default/bundle.1757057932408.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756989308830", "name": "Abstract Glassy Shader", "category": "Shaders", "variant": "Embed", "description": "An abstract shader with a glassy, reflective appearance.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/abstract-glassy-shader/default/bundle.1756989308830.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1757056922102", "name": "Mountainous Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that generates a mountainous landscape.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/mountainous-shader/default/bundle.1757056922102.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1757054916654", "name": "Infinite Plane Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates an infinite, receding plane.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/infinite-plane/default/bundle.1757054916654.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1757053043426", "name": "Advanced Liquid Crystal Shader", "category": "Shaders", "variant": "Embed", "description": "An advanced liquid crystal shader effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/liquid-crystal-shader/default/bundle.1757053043426.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1757222194600", "name": "Interactive Dotted Surface", "category": "Shaders", "variant": "Embed", "description": "An interactive 3D surface made of animated dots.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/dotted-surface/default/bundle.1757222194600.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1757225690165", "name": "Flowing Waves Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates a realistic flowing waves effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/flowing-waves-shader/default/bundle.1757225690165.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1757693041964", "name": "Lining Waves Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates waves made of lines.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/lining-waves-shader/default/bundle.1757693041964.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1757692435745", "name": "Simple Liquid Shader", "category": "Shaders", "variant": "Embed", "description": "A simple shader that simulates a liquid surface.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/liquid-shader/default/bundle.1757692435745.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1757692435745-2", "name": "Simple Liquid Shader (Duplicate)", "category": "Shaders", "variant": "Embed", "description": "A simple shader that simulates a liquid surface.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/liquid-shader/default/bundle.1757692435745.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1759377025254", "name": "Anomalous Matter Hero", "category": "Shaders", "variant": "Embed", "description": "A hero section with an anomalous matter shader effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/anomalous-matter-hero/default/bundle.1759377025254.html?theme=light"
+  }
+]

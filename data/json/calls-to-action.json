@@ -1,0 +1,69 @@
+
+[
+  {
+    "id": "embedded-calls-to-action-1760955774695", "name": "Gradient Glow CTA", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A call to action with a gradient glow effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/cta-3/default/bundle.1760955774695.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1759058753773", "name": "App Store Button", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An animated App Store download button.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/app-store-button/default/bundle.1759058753773.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1759058258140", "name": "Play Store Button", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An animated Google Play Store download button.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/play-store-button/default/bundle.1759058258140.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1757564788434", "name": "Modern Call to Action", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A clean and modern call to action section.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/call-to-action-1/default/bundle.1757564788434.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1756057512859", "name": "Text Disperse Effect", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A call to action with a text disperse hover effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/text-disperse/default/bundle.1756057512859.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1755896385022", "name": "Ethereal Contact Section", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An ethereal-themed contact and call to action section.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/lovesickfromthe6ix/ethereal/default/bundle.1755896385022.html?theme=light#contact"
+  },
+  {
+    "id": "embedded-calls-to-action-1754586246733", "name": "Interactive Empty State", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive empty state that serves as a call to action.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/remcostoeten/interactive-empty-state/default/bundle.1754586246733.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1751009133753", "name": "Hover Velocity Hero", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a call to action that reacts to hover velocity.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sean0205/hover-velocity-hero/default/bundle.1751009133753.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1749831107177", "name": "Diced Hero Section", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a unique \"diced\" animation effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/maxim.bort.devel/diced-hero-section/default/bundle.1749831107177.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1749719069056", "name": "Animated About Us", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An animated \"About Us\" section that leads to a call to action.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/uniquesonu/about-us-section/default/bundle.1749719069056.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1747631648438", "name": "Simple Centered CTA", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A clean, simple, and centered call to action.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/shadcnblockscom/cta-4/default/bundle.1747631648438.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1698", "name": "Interactive Globe CTA", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A call to action featuring an interactive 3D globe.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1698.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1561", "name": "Newsletter Signup Form", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An engaging newsletter signup form.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1561.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1461", "name": "Join Community CTA", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A call to action to join a community, often with avatars.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1461.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1422", "name": "Product Hunt CTA", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A Product Hunt themed \"Upvote\" call to action.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1422.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1414", "name": "Minimalist CTA Card", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A minimalist card-based call to action.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1414.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1378", "name": "Feedback CTA", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A call to action for users to provide feedback.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1378.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-969", "name": "Early Access Form", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A form to sign up for early access to a product.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/969.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-555", "name": "Get Started Card", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A card encouraging users to \"Get Started\".", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/555.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-550", "name": "Book a Demo CTA", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A call to action for booking a product demo.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/550.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-61", "name": "Download App Section", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A section encouraging users to download an application.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/61.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-9", "name": "Subscribe Banner", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A banner for subscribing to a newsletter or service.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/9.html?theme=light"
+  }
+]

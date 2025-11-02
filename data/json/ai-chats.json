@@ -1,0 +1,12 @@
+
+[
+  {
+    "id": "modern-ai-chat", "name": "Modern AI Chat", "category": "AI Chats", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Default", "componentId": "ModernAIChat", "description": "A sleek and modern AI chat interface with a dark theme, gradient message bubbles, and user avatars.", "code": "", "previewBg": "dark"
+  },
+  {
+    "id": "minimalist-ai-chat", "name": "Minimalist AI Chat", "category": "AI Chats", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Default", "componentId": "MinimalistAIChat", "description": "A clean and minimalist AI chat component with a light theme, focusing on clarity and simplicity.", "code": "", "previewBg": "light"
+  },
+  {
+    "id": "bento-ai-chat", "name": "Bento AI Chat", "category": "AI Chats", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Default", "componentId": "BentoAIChat", "description": "A compact and stylish AI chat component designed to fit perfectly within a bento grid layout.", "code": "", "previewBg": "dark"
+  }
+]

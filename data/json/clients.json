@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": "embedded-clients-791", "name": "Logo Wall Carousel", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A carousel showcasing client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/791.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-928", "name": "Grid Logo Wall", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A clean grid layout of client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/928.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-942", "name": "Minimalist Logo List", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A simple, minimalist list of client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/942.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-981", "name": "Fading Logo Carousel", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A carousel where logos fade in and out.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/981.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-1012", "name": "Infinite Logo Scroller", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An infinitely scrolling banner of client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1012.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-1198", "name": "Client Showcase Grid", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A grid that showcases client logos with a hover effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1198.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-1215", "name": "Logo Ticker", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A ticker-style animation for displaying client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1215.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-1366", "name": "Partner Logos Section", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A section dedicated to displaying partner or client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1366.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-1493", "name": "Interactive Logo Grid", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A grid of logos that react to mouse interaction.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1493.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-1678", "name": "Client Testimonials with Logos", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A section combining client testimonials with their logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1678.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-1815", "name": "Logo Cloud", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A simple cloud of client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1815.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-testimonials-columns-1", "name": "Testimonials Columns", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "Client testimonials displayed in a multi-column layout.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/testimonials-columns-1/default/bundle.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-spinning-logos", "name": "Spinning Logos", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dynamic display of client logos spinning in a circle.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/vaib215/spinning-logos/default/bundle.1748205787929.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-shuffle-grid", "name": "Shuffle Grid Logos", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive grid where client logos shuffle on hover.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/vaib215/shuffle-grid/default/bundle.1748206329469.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-about-us-section", "name": "About Us with Clients", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An \"About Us\" section that incorporates client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/uniquesonu/about-us-section/default/bundle.1749719069056.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-integrations-section", "name": "Integrations Section", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A section to showcase integrations, often using logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ruixen.ui/integrations-section/default/bundle.1754761698575.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-logo-cloud-2", "name": "Simple Logo Cloud", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A clean and simple presentation of client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/logo-cloud-2/default/bundle.1761136047930.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-logo-cloud-4", "name": "Modern Logo Cloud", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A modern and stylish layout for client logos.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/logo-cloud-4/default/bundle.1761239584496.html?theme=light"
+  }
+]

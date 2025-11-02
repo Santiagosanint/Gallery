@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": "embedded-abstract-19", "name": "Gradient Blob Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section featuring animated gradient blobs.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/19.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-548", "name": "Particle Text Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with text that dissolves into particles.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/548.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-549", "name": "Interactive Particle Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with particles that react to mouse movement.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/549.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-656", "name": "Floating Shapes Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with gently floating geometric shapes.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/656.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-792", "name": "Wavy Grid Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with an animated, wavy grid background.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/792.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-829", "name": "Connecting Dots Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a network of connecting dots.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/829.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-900", "name": "Kinetic Typography Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with dynamic and kinetic typography.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/900.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-901", "name": "3D Model Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section featuring an interactive 3D model.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/901.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-965", "name": "Glitch Effect Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a trendy glitch effect on text or images.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/965.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-983", "name": "Scroll Animation Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with animations that trigger on scroll.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/983.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1036", "name": "Interactive Globe Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a draggable, interactive 3D globe.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1036.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1086", "name": "Parallax Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a multi-layered parallax scrolling effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1086.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1120", "name": "Gradient Wave Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a calming, animated gradient wave.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1120.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1139", "name": "Text Reveal Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section where text is revealed with an animation.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1139.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1340", "name": "Liquid Distortion Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a liquid distortion effect on images.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1340.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1412", "name": "Flowing Lines Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with abstract lines flowing in the background.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1412.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1482", "name": "Generative Art Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a unique, procedurally generated art piece.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1482.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1515", "name": "SVG Animation Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section featuring a complex SVG animation.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1515.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1788", "name": "3D Card Effect Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with cards that have a 3D tilt effect on hover.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1788.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1849", "name": "Holographic Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a futuristic, holographic visual effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1849.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1916", "name": "Matrix Effect Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a \"Matrix\"-style digital rain effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1916.html?theme=light#"
+  },
+  {
+    "id": "embedded-abstract-1932", "name": "Audio Visualizer Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with an audio visualizer that reacts to sound.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1932.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1747063193351", "name": "Futuristic Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A sleek and futuristic hero section design.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/hero-futuristic/default/bundle.1747063193351.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1748749826586", "name": "Dynamic Wave Canvas", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero with a dynamic wave background generated with canvas.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/minhxthanh/dynamic-wave-canvas-background/default/bundle.1748749826586.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1749762383101", "name": "Futuristic Grid Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a futuristic grid and lighting effects.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/uniquesonu/futurastic-hero-section/default/bundle.1749762383101.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1752915244756", "name": "Fluid Gradient Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section featuring a smooth, fluid gradient animation.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/66hex/fluid-gradient/default/bundle.1752915244756.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1752920993094", "name": "Growth Tree Animation", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An animation of a tree growing, symbolizing growth.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/xubohuah/simple-growth-tree/default/bundle.1752920993094.html?theme=dark"
+  },
+  {
+    "id": "embedded-abstract-1755107979428", "name": "Helix Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a mesmerizing 3D helix animation.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/66hex/helix-hero/default/bundle.1755107979428.html?theme=dark"
+  },
+  {
+    "id": "embedded-abstract-1755369986743", "name": "Void Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a deep, abstract \"void\" or black hole effect.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/66hex/void-hero/default/bundle.1755369986743.html?theme=dark"
+  },
+  {
+    "id": "embedded-abstract-1755722661308", "name": "Particle Swirl Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a swirling vortex of particles.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/beratberkayg/hero/default/bundle.1755722661308.html?theme=dark"
+  },
+  {
+    "id": "embedded-abstract-1756161279306", "name": "Neural Network Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero with a neural network animation.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/66hex/neural-network-hero/default/bundle.1756161279306.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1756971132328", "name": "Wrap Shader Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with a wrap shader effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/moazamtrade/wrap-shader/default/bundle.1756971132328.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1757235260969", "name": "Illuminated Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An illuminated hero section with light effects.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/illuminated-hero/default/bundle.1757235260969.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1757364898145", "name": "Infinite Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with an infinite zoom or scroll effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/66hex/infinite-hero/default/bundle.1757364898145.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1757537780534", "name": "Wireframe Dotted Globe", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A rotating globe made of a wireframe and dots.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/moazamtrade/wireframe-dotted-globe/default/bundle.1757537780534.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1757969807899", "name": "Video Scroll Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section where a video plays based on scroll position.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/isaiahbjork/video-scroll-hero/default/bundle.1757969807899.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1758015723246", "name": "Modern Abstract Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A modern and sleek abstract hero section.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ravikatiyar162/hero-3/default/bundle.1758015723246.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1760453142932", "name": "ASCII Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with an ASCII art animation effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/hero-ascii/default/bundle.1760453142932.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1760853925745", "name": "AI Image Generator Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section themed around an AI image generator.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ravikatiyar162/ai-image-generator-hero/default/bundle.1760853925745.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-1760627333213", "name": "Vercel-Style Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section inspired by the Vercel website design.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/designali-in/vercel-hero/default/bundle.1760627333213.html?theme=light"
+  }
+]

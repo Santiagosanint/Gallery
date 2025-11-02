@@ -1,0 +1,82 @@
+[
+  {
+    "id": "embedded-navigation-menus-12",
+    "name": "Minimalist Header",
+    "category": "Navigation Menus",
+    "variant": "Embed",
+    "description": "A clean, minimalist header navigation.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/12.html?theme=light"
+  },
+  {
+    "id": "embedded-navigation-menus-841",
+    "name": "Header with Dropdown",
+    "category": "Navigation Menus",
+    "variant": "Embed",
+    "description": "A header that includes dropdown menus.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/841.html?theme=light"
+  },
+  {
+    "id": "embedded-navigation-menus-950",
+    "name": "Mega Menu Header",
+    "category": "Navigation Menus",
+    "variant": "Embed",
+    "description": "A header with a large, multi-column mega menu.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/950.html?theme=light"
+  },
+  {
+    "id": "embedded-navigation-menus-1146",
+    "name": "Sidebar Navigation",
+    "category": "Navigation Menus",
+    "variant": "Embed",
+    "description": "A collapsible sidebar navigation menu.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1146.html?theme=light"
+  },
+  {
+    "id": "embedded-navigation-menus-1428",
+    "name": "Centered Logo Header",
+    "category": "Navigation Menus",
+    "variant": "Embed",
+    "description": "A header with a centered logo and navigation links on either side.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1428.html?theme=light"
+  },
+  {
+    "id": "embedded-navigation-menus-1432",
+    "name": "Mobile Navigation Menu",
+    "category": "Navigation Menus",
+    "variant": "Embed",
+    "description": "A responsive navigation menu designed for mobile devices.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1432.html?theme=light"
+  },
+  {
+    "id": "embedded-navigation-menus-1760506591719",
+    "name": "Modern Header with CTA",
+    "category": "Navigation Menus",
+    "variant": "Embed",
+    "description": "A modern header that includes a call-to-action button.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/sshahaider/header-3/default/bundle.1760506591719.html?theme=light#"
+  },
+  {
+    "id": "embedded-navigation-menus-1760511466902",
+    "name": "Sleek Animated Header",
+    "category": "Navigation Menus",
+    "variant": "Embed",
+    "description": "A sleek header with smooth animations.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/sshahaider/header-2/default/bundle.1760511466902.html?theme=light"
+  }
+]

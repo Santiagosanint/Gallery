@@ -1,0 +1,122 @@
+[
+  {
+    "id": "embedded-pricing-sections-69",
+    "name": "Simple Pricing Table",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "A simple, clean pricing table.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/69.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-107",
+    "name": "Pricing with Toggle",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "A pricing section with a monthly/yearly toggle.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/107.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-368",
+    "name": "Feature Comparison Pricing",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "A pricing table that includes a detailed feature comparison.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/368.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-683",
+    "name": "Multi-Tier Pricing",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "A pricing section with multiple tiers or plans.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/683.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-944",
+    "name": "Pricing Cards",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "Pricing plans displayed in a card-based layout.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/944.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-1103",
+    "name": "Pricing with Sliders",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "A pricing section that uses sliders for custom plans.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1103.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-1474",
+    "name": "Minimalist Pricing Section",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "A clean and minimalist pricing section.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1474.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-1511",
+    "name": "Enterprise Pricing Section",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "A pricing section that includes an option for enterprise plans.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1511.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-1750949491192",
+    "name": "Animated Glassy Pricing",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "Pricing cards with an animated, glassy appearance.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/easemize/animated-glassy-pricing/default/bundle.1750949491192.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-1755097748306",
+    "name": "Modern Pricing Cards",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "Sleek and modern pricing cards.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/ravikatiyar162/pricing/default/bundle.1755097748306.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-1756283776750",
+    "name": "Detailed Pricing Section",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "A detailed pricing section with multiple options.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/uilayout.contact/pricing-section-4/default/bundle.1756283776750.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-1758562162183",
+    "name": "Highlight Pricing Card",
+    "category": "Pricing Sections",
+    "variant": "Embed",
+    "description": "A pricing card with a highlight on the recommended plan.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/ravikatiyar162/pricing-card-1/default/bundle.1758562162183.html?theme=light"
+  }
+]

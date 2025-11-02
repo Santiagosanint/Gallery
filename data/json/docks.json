@@ -1,0 +1,54 @@
+
+[
+  {
+    "id": "embedded-docks-28", "name": "Simple Icon Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A simple, clean dock with icons.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/28.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-75", "name": "Bottom Navigation Bar", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A mobile-style bottom navigation dock.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/75.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-624", "name": "Floating Action Button Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dock with a central floating action button.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/624.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-990", "name": "Minimalist Text Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A minimalist dock using text links instead of icons.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/990.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1025", "name": "Expanding Icon Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dock where icons expand on hover.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1025.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1972", "name": "Circular Menu Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dock that opens into a circular menu.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1972.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1747789633562", "name": "Modern Animated Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A modern dock with smooth animations.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/dock/default/bundle.1747789633562.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1748722456995", "name": "Message Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dock styled like a messaging app input bar.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/isaiahbjork/message-dock/default/bundle.1748722456995.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1749091387357", "name": "macOS Style Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dock that mimics the look and feel of the macOS dock.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhmnpunit/mac-os-dock/default/bundle.1749091387357.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1749141720487", "name": "Modern Mobile Menu", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A stylish mobile menu that acts as a dock.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/easemize/modern-mobile-menu/default/bundle.1749141720487.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1749226756628", "name": "Icon and Text Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dock that combines icons with text labels.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ruixen.ui/docks/default/bundle.1749226756628.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1749735671558", "name": "Limelight Navigation", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A navigation dock with a \"limelight\" hover effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/easemize/limelight-nav/default/bundle.1749735671558.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1750159373393", "name": "Liquid Glass Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dock with a liquid glass-like visual effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/suraj-xd/liquid-glass/default/bundle.1750159373393.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1750445652363", "name": "Sleek Animated Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A sleek dock with subtle and clean animations.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/dock/default/bundle.1750445652363.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1750949716213", "name": "Minimal Dock with Tooltips", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A minimal dock that shows tooltips on hover.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/jatin-yadav05/minimal-dock/default/bundle.1750949716213.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1754500496489", "name": "Interactive Icon Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A highly interactive dock with engaging hover effects.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/dock/default/bundle.1754500496489.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1754664780174", "name": "Dock Tabs", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A component that combines a dock with a tabbed interface.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/designali-in/dock-tabs/default/bundle.1754664780174.html?theme=light"
+  }
+]

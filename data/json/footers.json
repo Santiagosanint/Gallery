@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "embedded-footers-1520", "name": "Simple Link Footer", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A simple footer with columns of links.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1520.html?theme=light"
+  },
+  {
+    "id": "embedded-footers-1522", "name": "Multi-Column Footer", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A comprehensive multi-column footer with social links.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1522.html?theme=light"
+  },
+  {
+    "id": "embedded-footers-1747156786487", "name": "Dark Themed Footer Section", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A modern, dark-themed footer section.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/footer-section/default/bundle.1747156786487.html?theme=light#"
+  },
+  {
+    "id": "embedded-footers-1749099295224", "name": "Animated Text Footer", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A footer with animated text elements.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/tahermaxse/animated-footer/default/bundle.1749099295224.html?theme=light"
+  },
+  {
+    "id": "embedded-footers-1753375452848", "name": "Taped Design Footer", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A footer with a unique \"taped\" visual design.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/radu/footer-taped-design/default/bundle.1753375452848.html?theme=light"
+  },
+  {
+    "id": "embedded-footers-1757614559110", "name": "Sticky Bottom Footer", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A footer that sticks to the bottom of the viewport.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/sticky-footer/default/bundle.1757614559110.html?theme=light#"
+  },
+  {
+    "id": "embedded-footers-1757669441618", "name": "Minimalist Footer", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A clean and minimalist footer design.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/minimal-footer/default/bundle.1757669441618.html?theme=light"
+  },
+  {
+    "id": "embedded-footers-1759970115840", "name": "Flickering Text Footer", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A footer with a subtle flickering text effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/aghasisahakyan1/flickering-footer/default/bundle.1759970115840.html?theme=light"
+  },
+  {
+    "id": "embedded-footers-1760627149135", "name": "Vercel-Style Footer", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A footer inspired by the design of the Vercel website.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/designali-in/vercel-footer/default/bundle.1760627149135.html?theme=light"
+  },
+  {
+    "id": "embedded-footers-1759400605097", "name": "Footer with Pricing Link", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A footer that includes a prominent link to a pricing page.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/bento-pricing/default/bundle.1759400605097.html?theme=light"
+  }
+]

@@ -1,0 +1,66 @@
+
+[
+  {
+    "id": "embedded-images-75", "name": "Image Gallery", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A standard image gallery component.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/75.html?theme=light"
+  },
+  {
+    "id": "embedded-images-318", "name": "Image Comparison Slider", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A slider for comparing two images.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/318.html?theme=light"
+  },
+  {
+    "id": "embedded-images-347", "name": "Image with Hotspots", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image with interactive hotspots.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/347.html?theme=light"
+  },
+  {
+    "id": "embedded-images-785", "name": "Parallax Image", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image with a parallax scrolling effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/785.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1018", "name": "Image Carousel", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A carousel for displaying multiple images.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1018.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1153", "name": "Image Grid", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A grid layout for displaying images.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1153.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1168", "name": "Image Zoom on Hover", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image that zooms in on hover.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1168.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1436", "name": "3D Image Gallery", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image gallery with a 3D effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1436.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1529", "name": "Image Accordion", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An accordion that uses images as panels.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1529.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1565", "name": "Image with Captions", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image display with captions that appear on hover.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1565.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1672", "name": "Image Distortion Effect", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image with a distortion effect on hover.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1672.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1747015107762", "name": "Immersive Scroll Gallery", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A gallery with an immersive scrolling experience.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ishamsu/immersive-scroll-gallery/default/bundle.1747015107762.html?theme=light"
+  },
+  {
+    "id": "embedded-images-2055", "name": "Image Lightbox", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A lightbox for viewing images in a modal.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/2055.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1747788774165", "name": "Folder Image Gallery", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image gallery stylized as a folder.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/folder/default/bundle.1747788774165.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1747792442420", "name": "Circular Gallery", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A gallery where images are arranged in a circle.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/circular-gallery/default/bundle.1747792442420.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1747802644145", "name": "Grid Distortion", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image grid with a distortion effect on scroll.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/grid-distortion/default/bundle.1747802644145.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1748609265160", "name": "Image Auto Slider", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An automatically sliding image carousel.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/waleedkibhen/image-auto-slider/default/bundle.1748609265160.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1748767783026", "name": "Image Reveal Effect", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An effect that reveals an image on hover or scroll.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/jatin-yadav05/image-reveal/default/bundle.1748767783026.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1748943013917", "name": "Interactive Selector", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive image-based selector component.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/minhxthanh/interactive-selector/default/bundle.1748943013917.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1749990277041", "name": "Image Mask", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image revealed through a mask on hover.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/image-mask/default/bundle.1749990277041.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1749990072842", "name": "Clipped Image", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image with a creative clipping mask.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/clipped-image/default/bundle.1749990072842.html?theme=light"
+  }
+]

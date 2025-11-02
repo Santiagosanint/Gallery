@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": "embedded-features-1759011848702", "name": "3D Orbit Gallery", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A gallery of features displayed in a 3D orbit.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/moazamtrade/3d-orbit-gallery/default/bundle.1759011848702.html?theme=light"
+  },
+  {
+    "id": "embedded-features-622", "name": "Feature List with Icons", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A clean list of features, each with a corresponding icon.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/622.html?theme=light"
+  },
+  {
+    "id": "embedded-features-858", "name": "Alternating Feature Grid", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A grid layout that alternates text and images for each feature.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/858.html?theme=light"
+  },
+  {
+    "id": "embedded-features-892", "name": "Feature Cards with Images", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "Cards that showcase features with prominent images.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/892.html?theme=light"
+  },
+  {
+    "id": "embedded-features-963", "name": "Tabbed Feature Showcase", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A component that organizes features into interactive tabs.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/963.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1153", "name": "Detailed Feature Comparison", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A detailed table for comparing different product features.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1153.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1197", "name": "Feature Grid with Descriptions", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A grid layout for features with short descriptions.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1197.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1368", "name": "Simple Feature Section", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A straightforward section to list key product features.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1368.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1351", "name": "Animated Feature Showcase", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An animated showcase to highlight features dynamically.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1351.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1521", "name": "Feature List with Checkmarks", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A list of features with checkmarks to indicate availability.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1521.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1752", "name": "Interactive Feature Cards", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "Cards that reveal more information on hover or click.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1752.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1754", "name": "Minimalist Feature List", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A clean, minimalist list for showcasing features.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1754.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1820", "name": "Bento Grid Features", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A bento grid layout to display multiple features compactly.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1820.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1752958760146", "name": "Animated Multi-Word Text", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "Animated text that cycles through different words to highlight features.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/uniquesonu/modern-animated-multi-words/default/bundle.1752958760146.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1756035247468", "name": "Zoom Parallax Section", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A feature section with a cool zoom parallax effect on scroll.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/zoom-parallax/default/bundle.1756035247468.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1757238664171", "name": "Feature Shader Cards", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "Cards that use shaders for unique background effects.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/moazamtrade/feature-shader-cards/default/bundle.1757238664171.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1758787656211", "name": "Hero with Background Shader", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section featuring a smooth background shader.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/moazamtrade/hero-section-with-smooth-bg-shader/default/bundle.1758787656211.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1759052208303", "name": "Feature Highlight Hover", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A feature list where items are highlighted on hover.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ravikatiyar162/feature-highlight/default/bundle.1759052208303.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1758659350801", "name": "Crypto Swap Card", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A card interface for cryptocurrency swapping.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/moazamtrade/crypto-swap-card/default/bundle.1758659350801.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1756115798483", "name": "Cybernetic Bento Grid", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A futuristic, cybernetic-themed bento grid for features.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/cybernetic-bento-grid/default/bundle.1756115798483.html?theme=light"
+  }
+]

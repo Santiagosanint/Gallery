@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": "embedded-maps-999", "name": "Basic Interactive Map", "category": "Maps", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A basic interactive map component.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/999.html?theme=light"
+  },
+  {
+    "id": "embedded-maps-1128", "name": "Map with Markers", "category": "Maps", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A map with custom markers.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1128.html?theme=light"
+  },
+  {
+    "id": "embedded-maps-1752059124545", "name": "SVG Interactive Map", "category": "Maps", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive map made with SVG.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/lovesickfromthe6ix/interactive-map/default/bundle.1752059124545.html?theme=light"
+  },
+  {
+    "id": "embedded-maps-1755628836403", "name": "Interactive Globe", "category": "Maps", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive 3D globe.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ruixen.ui/globe/default/bundle.1755628836403.html?theme=light"
+  },
+  {
+    "id": "embedded-maps-1755766060280", "name": "Orbiting Skills Globe", "category": "Maps", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A globe with skills or icons orbiting it.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/olovajs/orbiting-skills/default/bundle.1755766060280.html?theme=light"
+  },
+  {
+    "id": "embedded-maps-1755768664812", "name": "Stylized Location Map", "category": "Maps", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A stylized map for showing a location.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/shailendrakumar19999/map/default/bundle.1755768664812.html?theme=light"
+  },
+  {
+    "id": "embedded-maps-1758820655832", "name": "Hero with Map", "category": "Maps", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section that incorporates a map background.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ravikatiyar162/hero-section-5/default/bundle.1758820655832.html?theme=light"
+  }
+]

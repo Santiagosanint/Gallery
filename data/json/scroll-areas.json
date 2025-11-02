@@ -1,0 +1,152 @@
+[
+  {
+    "id": "embedded-scroll-areas-110",
+    "name": "Custom Scrollbar",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A container with a custom-styled scrollbar.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/110.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-856",
+    "name": "Horizontal Scrolling Section",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A section with horizontally scrolling content.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/856.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-952",
+    "name": "Scroll-triggered Animations",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A section where animations are triggered on scroll.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/952.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1033",
+    "name": "Parallax Scrolling",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A section with a parallax scrolling effect.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1033.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1081",
+    "name": "Infinite Scroll",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A component that loads more content as the user scrolls.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1081.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1224",
+    "name": "Scroll Snapping",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A container with scroll snapping behavior.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1224.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1269",
+    "name": "Scroll with Progress Bar",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A scrollable area with a progress bar indicator.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1269.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1423",
+    "name": "Timeline Scroll",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A timeline that animates as the user scrolls.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1423.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1314",
+    "name": "Fade on Scroll",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "Elements that fade in or out on scroll.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1314.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1372",
+    "name": "Sticky Scrolling Section",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A section that sticks to the top while scrolling.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1372.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1427",
+    "name": "Scroll-based Image Sequence",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "An image sequence that animates based on scroll position.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1427.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1477",
+    "name": "Full Page Scrolling",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A component for full-page, section-based scrolling.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1477.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1745",
+    "name": "Scroll-linked Video",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A video that plays or scrubs based on scroll position.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1745.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1932",
+    "name": "Scrollable Card Deck",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A deck of cards with a scrolling animation.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/bundled/1932.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1757397571041",
+    "name": "Scroll-linked Spring Animation",
+    "category": "Scroll Areas",
+    "variant": "Embed",
+    "description": "A spring-based animation that is linked to scroll position.",
+    "code": "",
+    "previewBg": "light",
+    "embedUrl": "https://cdn.21st.dev/itsankitverma/scroll-linked-spring-animation/default/bundle.1757397571041.html?theme=light"
+  }
+]

@@ -1,0 +1,69 @@
+
+[
+  {
+    "id": "embedded-abstract-19", "name": "Gradient Blob Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section featuring animated gradient blobs.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/19.html?theme=light"
+  },
+  {
+    "id": "embedded-abstract-549", "name": "Interactive Particle Hero", "category": "Abstract", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hero section with particles that react to mouse movement.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/549.html?theme=light"
+  },
+  {
+    "id": "modern-ai-chat", "name": "Modern AI Chat", "category": "AI Chats", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Default", "componentId": "ModernAIChat", "description": "A sleek and modern AI chat interface with a dark theme, gradient message bubbles, and user avatars.", "code": "", "previewBg": "dark"
+  },
+  {
+    "id": "dynamic-stars", "name": "Stars Background", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Default", "componentId": "DynamicStars", "description": "A customizable canvas-based starry night effect with twinkling stars.", "code": "", "previewBg": "dark"
+  },
+  {
+    "id": "embedded-backgrounds-1100", "name": "Grid Block Wave", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive background with a wave effect on a grid of blocks.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1100.html?theme=light"
+  },
+  {
+    "id": "embedded-borders-1756105008575", "name": "Wave Path Border", "category": "Borders", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An animated border with a flowing wave path effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/wave-path/default/bundle.1756105008575.html?theme=light"
+  },
+  {
+    "id": "embedded-borders-1749394917551", "name": "Spotlight Card Border", "category": "Borders", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A card with a spotlight effect that follows the cursor around its border.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/easemize/spotlight-card/default/bundle.1749394917551.html?theme=light"
+  },
+  {
+    "id": "embedded-calls-to-action-1760955774695", "name": "Gradient Glow CTA", "category": "Calls to Action", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A call to action with a gradient glow effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sshahaider/cta-3/default/bundle.1760955774695.html?theme=light"
+  },
+  {
+    "id": "embedded-clients-spinning-logos", "name": "Spinning Logos", "category": "Clients", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dynamic display of client logos spinning in a circle.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/vaib215/spinning-logos/default/bundle.1748205787929.html?theme=light"
+  },
+  {
+    "id": "embedded-comparisons-1760802028658", "name": "Lightning Split View", "category": "Comparisons", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive split-view for before/after comparisons.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/cinquinandy/lightning-split/default/bundle.1760802028658.html?theme=light"
+  },
+  {
+    "id": "embedded-docks-1749091387357", "name": "macOS Style Dock", "category": "Docks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dock that mimics the look and feel of the macOS dock.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhmnpunit/mac-os-dock/default/bundle.1749091387357.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1759011848702", "name": "3D Orbit Gallery", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A gallery of features displayed in a 3D orbit.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/moazamtrade/3d-orbit-gallery/default/bundle.1759011848702.html?theme=light"
+  },
+  {
+    "id": "embedded-features-1820", "name": "Bento Grid Features", "category": "Features", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A bento grid layout to display multiple features compactly.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1820.html?theme=light"
+  },
+  {
+    "id": "embedded-footers-1760627149135", "name": "Vercel-Style Footer", "category": "Footers", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A footer inspired by the design of the Vercel website.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/designali-in/vercel-footer/default/bundle.1760627149135.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1747015107762", "name": "Immersive Scroll Gallery", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A gallery with an immersive scrolling experience.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ishamsu/immersive-scroll-gallery/default/bundle.1747015107762.html?theme=light"
+  },
+  {
+    "id": "embedded-images-1747802644145", "name": "Grid Distortion", "category": "Images", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An image grid with a distortion effect on scroll.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/grid-distortion/default/bundle.1747802644145.html?theme=light"
+  },
+  {
+    "id": "embedded-maps-1755628836403", "name": "Interactive Globe", "category": "Maps", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive 3D globe.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ruixen.ui/globe/default/bundle.1755628836403.html?theme=light"
+  },
+  {
+    "id": "embedded-pricing-sections-1750949491192", "name": "Animated Glassy Pricing", "category": "Pricing Sections", "variant": "Embed", "description": "Pricing cards with an animated, glassy appearance.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/easemize/animated-glassy-pricing/default/bundle.1750949491192.html?theme=light"
+  },
+  {
+    "id": "embedded-scroll-areas-1757397571041", "name": "Scroll-linked Spring Animation", "category": "Scroll Areas", "variant": "Embed", "description": "A spring-based animation that is linked to scroll position.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/itsankitverma/scroll-linked-spring-animation/default/bundle.1757397571041.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1756270523413", "name": "Black Hole Shader", "category": "Shaders", "variant": "Embed", "description": "A mesmerizing black hole shader effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/dhileepkumargm/black-hole-shader/default/bundle.1756270523413.html?theme=light"
+  },
+  {
+    "id": "embedded-shaders-1749291038497", "name": "Light Beams Shader", "category": "Shaders", "variant": "Embed", "description": "A shader that creates volumetric light beam effects.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/larsen66/beams/default/bundle.1749291038497.html?theme=light"
+  },
+  {
+    "id": "embedded-testimonials-1751128591723", "name": "3D Testimonials", "category": "Testimonials", "variant": "Embed", "description": "Testimonials presented with a 3D card effect.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/sean0205/3d-testimonails/default/bundle.1751128591723.html?theme=light"
+  }
+]

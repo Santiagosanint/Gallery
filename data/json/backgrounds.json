@@ -1,0 +1,78 @@
+
+[
+  {
+    "id": "background-paths", "name": "Background Paths", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Default", "componentId": "BackgroundPaths", "description": "An abstract background featuring flowing paths.", "code": "", "previewBg": "dark"
+  },
+  {
+    "id": "glow-effect", "name": "Glow", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Default", "componentId": "GlowEffect", "description": "A soft glowing effect, perfect for highlighting elements.", "code": "", "previewBg": "light"
+  },
+  {
+    "id": "shooting-stars", "name": "Shooting Stars", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Default", "componentId": "ShootingStars", "description": "A mesmerizing badge/ui effect with customizable mobile shooting stars traversing the screen.", "code": "", "previewBg": "dark"
+  },
+  {
+    "id": "dynamic-stars", "name": "Stars Background", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Default", "componentId": "DynamicStars", "description": "A customizable canvas-based starry night effect with twinkling stars.", "code": "", "previewBg": "dark"
+  },
+  {
+    "id": "embedded-backgrounds-1100", "name": "Grid Block Wave", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive background with a wave effect on a grid of blocks.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1100.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-924", "name": "Gradient Spotlight", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A background with a soft, moving spotlight over a gradient.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/924.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-675", "name": "Floating Shapes", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A simple background with gently floating geometric shapes.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/675.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1114", "name": "Abstract Particles", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A dynamic background with abstract particle animations.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/bundled/1114.html?theme=dark"
+  },
+  {
+    "id": "embedded-backgrounds-1120", "name": "Gradient Wave", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A calming wave animation with a subtle gradient.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1120.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1509", "name": "Floating Cubes", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "3D cubes gently floating and rotating in space.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1509.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1497", "name": "Plexus Connection", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An animated plexus network of nodes and lines.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1497.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1486", "name": "Generative Art", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A generative art piece that evolves over time.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1486.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1485", "name": "Particles Text", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "Text that dissolves into a swarm of particles.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1485.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1449", "name": "Interactive Grid", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A grid of points that react to mouse movement.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1449.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1412", "name": "Flowing Lines", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "Abstract lines that flow smoothly across the screen.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1412.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1407", "name": "Twinkling Stars", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A field of stars that twinkle randomly.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1407.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1393", "name": "Retro Grid", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A retro-style 3D grid moving towards the viewer.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1393.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1358", "name": "Circle Pattern", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An animated pattern of expanding and contracting circles.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1358.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1176", "name": "Liquid Gradient", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A smooth, liquid-like animated gradient background.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1176.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1134", "name": "Hexagon Pattern", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A background with an animated pattern of hexagons.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1134.html?theme=light"
+  },
+  {
+    "id": "embedded-backgrounds-1757222194600", "name": "Dotted Surface", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A 3D surface made of animated dots.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/sshahaider/dotted-surface/default/bundle.1757222194600.html?theme=dark"
+  },
+  {
+    "id": "embedded-backgrounds-1750754554698", "name": "Particle Text Effect", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "Text rendered with a flowing particle effect.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/xubohuah/particle-text-effect/default/bundle.1750754554698.html?theme=dark"
+  },
+  {
+    "id": "embedded-backgrounds-1748341770116", "name": "Ethereal Shadow", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A soft, ethereal shadow effect that follows the mouse.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/jatin-yadav05/etheral-shadow/default/bundle.1748341770116.html?theme=dark"
+  },
+  {
+    "id": "embedded-backgrounds-1747466400576", "name": "Grid Background Pattern", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A clean, animated grid pattern background.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/sshahaider/bg-pattern/default/bundle.1747466400576.html?theme=dark"
+  },
+  {
+    "id": "embedded-backgrounds-1637", "name": "Kinetic Sculpture", "category": "Backgrounds", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A complex, kinetic sculpture-like animation.", "code": "", "previewBg": "dark", "embedUrl": "https://cdn.21st.dev/bundled/1637.html?theme=dark"
+  }
+]

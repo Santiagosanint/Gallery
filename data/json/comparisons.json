@@ -1,0 +1,15 @@
+
+[
+  {
+    "id": "embedded-comparisons-1080", "name": "Pricing Table Comparison", "category": "Comparisons", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A classic pricing table for comparing features.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1080.html?theme=light"
+  },
+  {
+    "id": "embedded-comparisons-1153", "name": "Feature Comparison Grid", "category": "Comparisons", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A detailed grid for comparing product features side-by-side.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1153.html?theme=light"
+  },
+  {
+    "id": "embedded-comparisons-1757836218819", "name": "Modern Comparison Table", "category": "Comparisons", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A sleek, modern comparison table with icons.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/ruixen.ui/comparison-table/default/bundle.1757836218819.html?theme=light"
+  },
+  {
+    "id": "embedded-comparisons-1760802028658", "name": "Lightning Split View", "category": "Comparisons", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "An interactive split-view for before/after comparisons.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/cinquinandy/lightning-split/default/bundle.1760802028658.html?theme=light"
+  }
+]

@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "embedded-hooks-1441", "name": "Scroll Velocity Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hook that tracks the velocity of page scroll.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/1441.html?theme=light"
+  },
+  {
+    "id": "embedded-hooks-883", "name": "useIntersectionObserver Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hook for observing element visibility changes.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/883.html?theme=light"
+  },
+  {
+    "id": "embedded-hooks-877", "name": "useDebounce Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hook to debounce a value, useful for inputs.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/877.html?theme=light"
+  },
+  {
+    "id": "embedded-hooks-871", "name": "useLocalStorage Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hook to sync state with the browser's local storage.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/871.html?theme=light"
+  },
+  {
+    "id": "embedded-hooks-832", "name": "useMediaQuery Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hook for tracking CSS media query matches.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/832.html?theme=light"
+  },
+  {
+    "id": "embedded-hooks-556", "name": "useOnClickOutside Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hook to detect clicks outside a specified element.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/556.html?theme=light"
+  },
+  {
+    "id": "embedded-hooks-507", "name": "useCopyToClipboard Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hook for copying text to the clipboard.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/507.html?theme=light"
+  },
+  {
+    "id": "embedded-hooks-377", "name": "useWindowSize Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A hook to track the dimensions of the browser window.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/377.html?theme=light"
+  },
+  {
+    "id": "embedded-hooks-154", "name": "useFetch Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A custom hook for making fetch API requests.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/154.html?theme=light"
+  },
+  {
+    "id": "embedded-hooks-102", "name": "useToggle Hook", "category": "Hooks", "author": "Santiago Sanint", "authorHandle": "@santiagosanint", "variant": "Embed", "description": "A simple hook for toggling a boolean state.", "code": "", "previewBg": "light", "embedUrl": "https://cdn.21st.dev/bundled/102.html?theme=light"
+  }
+]
